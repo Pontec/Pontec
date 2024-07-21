@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 # 💫 Sobre Mi:
-🚀 Mi nombre es Jhonatan Ponce.<br>🌐un desarrollador FullStack en busca de oportunidades para expandir mis habilidades y contribuir al mundo del desarrollo web y ademas tengo interes en aprender sobre el desarrollo móvil.
+🚀 Mi nombre es Jhonatan Ponce.<br>🌐Un desarrollador FullStack en busca de oportunidades para expandir mis habilidades y contribuir al mundo del desarrollo web y ademas tengo interes en aprender sobre el desarrollo móvil.
 
 # 💻 Tech Stack:
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-%234ea94b.svg?style=for-the-badge&logo=SpringBoot&logoColor=%white) ![Java](https://img.shields.io/badge/Java-%234e333b.svg?style=for-the-badge&logo=java&logoColor=%4761EAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) !
